@@ -7,3 +7,6 @@ source("global.R")
 import_data()
 
 clean_data()
+
+visualise_data()
+
