@@ -4,7 +4,7 @@
 
 source("global.R")
 
-import_data()
+d <- import_data("UCL")
 
 clean_data()
 
